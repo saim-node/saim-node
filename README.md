@@ -1,77 +1,71 @@
-<h1 align="center">👋 Hi, I'm Saim Raza</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Saim Raza</span></h1>
 <h3 align="center">🌐 Full Stack Web Developer | MERN Stack | AI & ML Enthusiast</h3>
 
+
+
 <p align="center">
-  <a href="mailto:saimrazaytt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://potfolio-beryl-zeta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SaimRaza885">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:saimrazaytt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://potfolio-beryl-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/SaimRaza885"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TailwindCSS+%F0%9F%9A%80;Learning+AI+and+Machine+Learning+%F0%9F%A4%96;Clean+Code+%26+Creative+Design+%E2%9D%A4%EF%B8%8F)
+
+</div>
 
 ---
 
 ### 🚀 About Me
-- 💻 Passionate **Full Stack Developer** focused on crafting responsive and user-friendly web applications  
-- 🔭 Currently exploring **AI & Machine Learning** to merge creativity with intelligence  
-- ⚡ Skilled in **React**, **Next.js**, **Tailwind CSS**, **Redux**, **TypeScript**, **Node.js**, **Express**, and **MongoDB**  
-- 🧠 Also experienced with **Python**, **Pandas**, and **NumPy**  
-- 💬 Ask me about **frontend development**, **modern UI/UX**, or **MERN stack**  
-- 📫 Reach me at: **saimrazaytt@gmail.com**  
-- 🌍 Portfolio: [https://potfolio-beryl-zeta.vercel.app/](https://potfolio-beryl-zeta.vercel.app/)
+- 💻 Passionate **Frontend & Full Stack Developer** focused on creating responsive, elegant, and high-performance web apps.  
+- ⚡ Skilled in **React**, **Next.js**, **Tailwind CSS**, **Redux**, **TypeScript**, **Node.js**, and **MongoDB**.  
+- 🔍 Interested in blending creativity with intelligence through **AI & Machine Learning**.  
+- 🧠 Strong understanding of **modern UI/UX design principles** and pixel-perfect implementation.  
+- 🪄 Clean, reusable code & detail-oriented approach are my superpowers.  
+- 📫 **Reach Me:** [saimrazaytt@gmail.com](mailto:saimrazaytt@gmail.com)  
+- 🌍 **Portfolio:** [https://potfolio-beryl-zeta.vercel.app/](https://potfolio-beryl-zeta.vercel.app/)
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn-ui-%23000000.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow"/>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,python,vscode,git,github" />
 </p>
 
 ---
 
-### 🌐 Featured Projects
+### 💼 Featured Frontend Projects
 
- 🧩 Project 
- 🧠 *[*Brainwave]([url](https://brainwave-gold-nine.vercel.app/))** 
- 💼 **[Xora]([url](https://xora-one-eta.vercel.app/))** 
+#### [🧠 Brainwave](https://brainwave-gold-nine.vercel.app/)
+#### [💼 Xora](https://xora-one-eta.vercel.app/)
 
 ---
 
 ### 🧾 Certifications
-<p align="center">
- Certifications: [Frontend Development]([url](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png))
 
+<p align="">
+  <b>🏅 <a href="https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png" target="_blank">Frontend Web Development Certification</a></b>
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaimRaza885&show_icons=true&theme=radical" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimRaza885&theme=radical" alt="GitHub Streak" height="160" />
+### 📊 GitHub Analytics
+
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaimRaza885&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimRaza885&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
+### 🌍 Connect With Me
+
+<p align="">
   <a href="mailto:saimrazaytt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://potfolio-beryl-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/SaimRaza885"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -79,4 +73,4 @@
 
 ---
 
-⭐ **"Code. Learn. Evolve."**
+<h3 align="center">⭐ "Code. Learn. Evolve." ⭐</h3>
