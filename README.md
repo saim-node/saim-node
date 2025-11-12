@@ -27,7 +27,7 @@
 - 🪄 Clean, reusable code & detail-oriented approach are my superpowers.  
 - 📫 **Reach Me:** [saimrazaytt@gmail.com](mailto:saimrazaytt@gmail.com)  
 - 🌍 **Portfolio:** [https://potfolio-beryl-zeta.vercel.app/](https://potfolio-beryl-zeta.vercel.app/)
-- 🏡 **Main Github Account:** [Saim Raza](https://github.com/SaimRaza885)
+- 🏡 **Main Github Account:** [SaimRaza](https://github.com/SaimRaza885)
 
 ---
 
