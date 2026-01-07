@@ -26,7 +26,7 @@
 - 🧠 Strong understanding of **modern UI/UX design principles** and pixel-perfect implementation.  
 - 🪄 Clean, reusable code & detail-oriented approach are my superpowers.  
 - 📫 **Reach Me:** [saimrazaytt@gmail.com](mailto:saimrazaytt@gmail.com)  
-- 🌍 **Portfolio:** [https:/saim-raza.vercel.app/](https://saim-raza.app/)
+- 🌍 **Portfolio:** [Click here](https://saim-raza.app/)
 - 🏡 **Main Github Account:** [SaimRaza](https://github.com/SaimRaza885)
 
 ---
