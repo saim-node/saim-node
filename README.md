@@ -26,7 +26,7 @@
 - 🧠 Strong understanding of **modern UI/UX design principles** and pixel-perfect implementation.  
 - 🪄 Clean, reusable code & detail-oriented approach are my superpowers.  
 - 📫 **Reach Me:** [saimrazaytt@gmail.com](mailto:saimrazaytt@gmail.com)  
-- 🌍 **Portfolio:** [https://potfolio-beryl-zeta.vercel.app/](https://potfolio-beryl-zeta.vercel.app/)
+- 🌍 **Portfolio:** [https:/saim-raza.vercel.app/](https://saim-raza.app/)
 - 🏡 **Main Github Account:** [SaimRaza](https://github.com/SaimRaza885)
 
 ---
@@ -68,7 +68,7 @@
 
 <p align="">
   <a href="mailto:saimrazaytt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://potfolio-beryl-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://saim-raza.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/SaimRaza885"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
